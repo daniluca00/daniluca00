@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello there!
 
-I am Dani, a Pentester and Web developer.
+HI, I am Dani, a CiberSecurity student of IES El Caminás
 
 ## 🔧 Technologies & Tools i'm using
 #### System
@@ -27,6 +27,6 @@ I am Dani, a Pentester and Web developer.
 <a href="https://github.com/daniluca00/daniluca00">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniluca00&theme=dracula&line_height=27&show_icons=true&include_all_commits=true&count_private=true" alt="Martin's GitHub Stats" />
 </a>
-<a href="https://github.com/nundir/nundir">
+<a href="https://github.com/daniluca00/daniluca00">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniluca00&hide=java,html,tex&theme=dracula&langs_count=3&count_private=true" />
 </a>
