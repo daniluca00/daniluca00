@@ -4,10 +4,7 @@ HI, I am Dani, a CiberSecurity student of IES El Caminás
 
 ## 🔧 Technologies & Tools i'm using
 #### System
-![](https://img.shields.io/badge/Manjaro-%2343853D?style=for-the-badge&logo=linux&logoColor=white&color=34be5b)
 ![](https://img.shields.io/badge/VSCode-%2343853D?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/Alacritty-%2343853D?style=for-the-badge&logo=alacritty&logoColor=white&color=F46D01)
-![](https://img.shields.io/badge/VIM-%2343853D?style=for-the-badge&logo=vim&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/Docker-%2343853D?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
 
 #### Languages & Framework
@@ -16,8 +13,6 @@ HI, I am Dani, a CiberSecurity student of IES El Caminás
 ![](https://img.shields.io/badge/JavaScript-%2343853D?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Markdown-%2343853D?style=for-the-badge&logo=markdown&logoColor=white&color=000000)
 
-![](https://img.shields.io/badge/React-%2343853D?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/Material_UI-%2343853D?style=for-the-badge&logo=material-ui&logoColor=white&color=0081CB)
 
 #### Databases
 ![](https://img.shields.io/badge/SQLite-%2343853D?style=for-the-badge&logo=sqlite&logoColor=white&color=003B57)
