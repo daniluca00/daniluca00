@@ -10,7 +10,6 @@ HI, I am Dani, a CiberSecurity student of IES El Caminás
 #### Languages & Framework
 ![](https://img.shields.io/badge/Python-%2343853D?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/TypeScript-%2343853D?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
-![](https://img.shields.io/badge/JavaScript-%2343853D?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Markdown-%2343853D?style=for-the-badge&logo=markdown&logoColor=white&color=000000)
 
 
